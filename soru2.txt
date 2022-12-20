@@ -1,0 +1,5 @@
+Yemeğinden bir parça istendi...?
+a)kimseyle paylaşmam.
+b)sevmediğim kısmından veririm.
+c)karşılığında o da bana verirse veririm.
+d)aynısından ona ısmarlarım.
